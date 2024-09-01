@@ -2,7 +2,7 @@
 
 **Harnessing AI to Revolutionize Power Management**
 
----
+----
 
 ## 🚀 **SMART SUBSTATION: The Future of Power Management**
 
