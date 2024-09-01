@@ -59,13 +59,6 @@ Explore our repository to dive into the code, contribute to this exciting projec
 
 ---
 
-### 📜 **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-### 🤝 **Contributing**
-
-Contributions are welcome! Please read our [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
 
 ---
 
