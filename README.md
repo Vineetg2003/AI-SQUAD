@@ -47,6 +47,17 @@ Welcome to **POWER SHAKTI**, an innovative solution to transform traditional pow
 3. **Alerts and Measures:** Generates appropriate cautions, warnings, and corrective actions automatically upon detecting problems.
 4. **SCADA Integration:** Connected to the SCADA system via a GUI, enabling real-time monitoring and instant alerts to the distribution company (DISCOM).
 
+### Performance Metrics
+- **Accuracy**: 0.96
+- **Precision**: 0.77
+- **Recall**: 0.85
+- **F1-Score**: 0.71
+- **Mean Absolute Error (MAE)**: 1.5
+- **Mean Squared Error (MSE)**: 2
+- **R2-Score**: 0.75
+- **PR-AUC**: 0.5
+- **ROC-AUC Score**: 0.67
+
 ### 🌐 **Join Us in Powering the Future!**
 
 Explore our repository to dive into the code, contribute to this exciting project, or learn how **POWER SHAKTI** can be implemented in your own power management systems.
